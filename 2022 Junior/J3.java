@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class Main {
+public class J3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         char[] word = input.next().toCharArray();
