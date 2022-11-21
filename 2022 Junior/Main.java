@@ -1,7 +1,8 @@
+// not AC
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         ArrayList<ArrayList<String>> name = new ArrayList<ArrayList<String>>();
