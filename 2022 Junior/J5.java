@@ -1,7 +1,8 @@
+// not AC
 import java.util.*;
 import java.lang.*;
 
-public class Main {
+public class J5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int N = input.nextInt();
